@@ -1,2 +1,3 @@
 file1 content
 second line
+second line
